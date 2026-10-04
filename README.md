@@ -1,1 +1,2 @@
-# Trabalho de Git em dupla
+
+# Projeto da Livia e Maria Eduarda
