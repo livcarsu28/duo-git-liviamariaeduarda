@@ -1,1 +1,1 @@
-# duo-git-liviamariaeduarda
+# Trabalho de Git em dupla
