@@ -1,1 +1,1 @@
-# duo-git-liviamariaeduarda
+# Projeto da Livia e Maria Eduarda
